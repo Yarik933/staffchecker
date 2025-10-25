@@ -1,0 +1,5 @@
+SecretKey: FRBX-JAY27LSIDNSKOSYARIKSPOOKIE
+Rank: Co-Owner
+Info: Your account status is medium - recently you violated our Terms of Using AirDrop
+Strikes: 1/3
+Status: Medium
