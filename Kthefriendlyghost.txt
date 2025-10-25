@@ -1,0 +1,5 @@
+SecretKey: FRBX-GHOSTEDCODE723298KSLSOS
+Rank: Admin
+Info: Your account status is good
+Strikes: 0/3
+Status: Good
