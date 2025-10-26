@@ -1,5 +1,5 @@
 SecretKey: FRBX-GHOSTEDCODE723298KSLSOS
 Rank: Admin
-Info: Your account status is mid - recently got automoderated mass time by jupiter
+Info: Your account status is mid - recently got automoderated mass time by jupiter, your status will be resetted in next week, follow discord ToS
 Strikes: 0/3
 Status: Medium
