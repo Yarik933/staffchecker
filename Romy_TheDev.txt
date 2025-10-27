@@ -1,5 +1,5 @@
 SecretKey: FRBX-ROMY281KEFRSGANG843E
 Rank: Staff
-Info: Your account status is medium: You recently violated community rule mass pinging high ranks. (Expires at 16:00)
+Info: Your account status is good: you did 2 pings on the owner today so you need to chill having 1 more ping daily.
 Strikes: 0/3
-Status: Medium
+Status: Good
