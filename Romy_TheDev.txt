@@ -1,5 +1,5 @@
 SecretKey: FRBX-ROMY281KEFRSGANG843E
 Rank: Staff
-Info: Your account status is good: you did 2 pings on the owner today so you need to chill having 1 more ping daily.
+Info: Your account status is good
 Strikes: 0/3
 Status: Good
