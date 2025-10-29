@@ -1,5 +1,5 @@
 SecretKey: FRBX-BROTHA9382LSHDKEYHSK
 Rank: Player
-Info: Your account status is good
+Info: Your account status is medium: Recently you violated community rule 0.1
 Strikes: 0/3
-Status: Good
+Status: Medium
