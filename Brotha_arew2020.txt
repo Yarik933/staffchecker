@@ -1,5 +1,5 @@
 SecretKey: FRBX-BROTHA9382LSHDKEYHSK
 Rank: Player
-Info: Your account status is good: your request was reviewed and accepted.
+Info: Your account status is good
 Strikes: 0/3
 Status: Good
