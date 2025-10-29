@@ -1,5 +1,5 @@
 SecretKey: FRBX-BROTHA9382LSHDKEYHSK
 Rank: Player
-Info: Your account status is medium: Recently you violated community rule 0.1
+Info: Your account status is medium: Recently you violated community rule 0.1 | message from support: you were denied because you got a warning and got banned for 1 hour violating this rule.
 Strikes: 0/3
 Status: Medium
