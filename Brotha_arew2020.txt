@@ -1,5 +1,5 @@
 SecretKey: FRBX-BROTHA9382LSHDKEYHSK
 Rank: Player
-Info: Your account status is medium: You violated our community rule 0.7 2th time (strike expires in next week)
-Strikes: 1/3
-Status: Medium
+Info: Your account status is good: your request was reviewed and accepted.
+Strikes: 0/3
+Status: Good
