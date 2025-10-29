@@ -1,5 +1,5 @@
 SecretKey: FRBX-BROTHA9382LSHDKEYHSK
 Rank: Player
-Info: Your account status is limited: You violated our community rules 0.1 and 0.7 and you are banned for 5 hours (strike expires in next week)
+Info: Your account status is medium: You violated our community rule 0.7 2th time (strike expires in next week)
 Strikes: 1/3
-Status: Limited
+Status: Medium
