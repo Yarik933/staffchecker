@@ -1,5 +1,0 @@
-SecretKey: FRBX-BROTHA9382LSHDKEYHSK
-Rank: Player
-Info: Your account status is medium: You 3th time violated community rule 0.1 | Support: Your warning info was been removed.
-Strikes: 1/3
-Status: Medium
