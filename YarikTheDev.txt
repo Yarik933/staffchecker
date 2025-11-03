@@ -2,4 +2,4 @@ SecretKey: FRBX-1029OEFGNANA9090
 Rank: Owner
 Info: Your account status is good
 Strikes: 0/3
-Status: Medium
+Status: Good
