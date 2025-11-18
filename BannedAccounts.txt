@@ -1,4 +1,4 @@
 GDHGHJ389828DJHjh - [TempBan] [2025.12.06.22:00] [Swearing] [You violated our terms of service]
 GDHGHJ389348DJHjh - [TempBan] [2025.11.09.22:00] [Swearing] [You violated our terms of service]
 9C13E1AAD3112FC2 - [TempBan] [2025.11.06.21:55] [Test] [You violated our terms of service]
-EB37C818D0B220C5 - [TempBan] [2025.11.22.00:00 [Bot changing id & suspension evading] [Our system reported that you changed bot id to evade bot's suspension for violating our Terms of Service, if you repeat this behavior, you account will be terminated! ]
+EB37C818D0B220C5 - [TempBan] [2025.22.11.00:00 [Bot changing id & suspension evading] [Our system reported that you changed bot id to evade bot's suspension for violating our Terms of Service, if you repeat this behavior, you account will be terminated! ]
