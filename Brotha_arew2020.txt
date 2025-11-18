@@ -1,5 +1,5 @@
 SecretKey: FRBX-BROTHA9382LSHDKEYHSK
-Rank: Account Terminated
-Info: Your account is suspended for inappropriate behavior
-Strikes: N/A
-Status: Bad
+Rank: Staff
+Info: You account status is good
+Strikes: 0/3
+Status: Good
