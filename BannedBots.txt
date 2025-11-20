@@ -1,1 +1,2 @@
 1234567890 - Reason: Example
+53081534 - Reason: Your bot violating our Terms of Service and we suspended this bot for reason: Gambling Content
