@@ -1,1 +1,2 @@
 1234567890 - Reason: Example
+39875232 - Reason: Your bot has been terminated by an owner with reason: Unexplained connection
