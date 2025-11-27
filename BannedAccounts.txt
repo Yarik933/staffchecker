@@ -3,4 +3,4 @@ GDHGHJ389348DJHjh - [TempBan] [2025.11.09.22:00] [Swearing] [You violated our te
 9C13E1AAD3112FC2 - [TempBan] [2025.11.06.21:55] [Test] [You violated our terms of service]
 EB37C818D0B220C5 - [TempBan] [2025.11.20.11:10] [Gambling Content] [You violated our Terms of Using and our moderation did action on your bot and your account]
 73A88C40C1CD3548 - [PermBan] [Dumb] []
-D7256FB6DD07C4C5 - [PermBan] [inappropriate username] [Your username violated our Terms of Service using "raper" word, if you wish to appeal go to our discord server and go to support then in-game support]
+D7256FB6DD07C4C5 - [PermBan] [] [inappropriate username] [Your username violated our Terms of Service using "raper" word, if you wish to appeal go to our discord server and go to support then in-game support]
