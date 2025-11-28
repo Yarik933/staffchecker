@@ -1,4 +1,3 @@
 1234567890 - Reason: Example
 35865969 - Reason: Unexplained Connection - bot terminated
 53215557 - Reason: Bot is suspended with reason: Account Terminated
-36871186 - Reason: Your bot has been permanently suspended for violating our Terms of Service: Our moderation detected suspicious behaviour developing raiding bot to raid discord server, we do not permit creating any bot that violating discord's Terms of Service and Community Guidelines raiding servers. if you wish to appeal here's link to our discord server then contact with us there: https://discord.gg/zJCjEcEEg5
