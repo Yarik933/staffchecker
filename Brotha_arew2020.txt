@@ -1,5 +1,5 @@
 SecretKey: FRBX-BROTHA9382LSHDKEYHSK
 Rank: Staff
-Info: You account status is good
+Info: You account status is medium: recently you violated our community rules 1 and 5
 Strikes: 0/3
-Status: Good
+Status: Medium
