@@ -1,5 +1,5 @@
 SecretKey: FRBX-BROTHA9382LSHDKEYHSK
 Rank: Staff
-Info: You account status is medium: You violated rule 5 (NSFW Post), you received strike 1/3, if you repeat this behavior again - you will be demoted and banned for 1 day.
+Info: Your account status is medium: You violated rule 5 (NSFW Post), you received strike 1/3, if you repeat this behavior again - you will be demoted and banned for 1 day.
 Strikes: 1/3
 Status: Medium
