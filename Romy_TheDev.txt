@@ -1,5 +1,5 @@
 SecretKey: FRBX-ROMY281KEFRSGANG843E
 Rank: Staff
-Info: Your account status is good
-Strikes: 0/3
-Status: Good
+Info: Your account status is medium: Recently you violated community rule 5 | expires in 1 month
+Strikes: 1/3
+Status: Medium
