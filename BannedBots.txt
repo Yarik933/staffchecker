@@ -1,2 +1,1 @@
 1234567890 - Reason: Example
-39875232 - Reason: Server time out (System lost connection to server, recovering your bot back)
