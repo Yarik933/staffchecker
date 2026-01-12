@@ -1,1 +1,2 @@
 1234567890 - Reason: Example
+51466504 - Reason: Your bot has been frozen for suspicious activity, our system detected that your bot trying to exploit engine systems and pc core, if you wish to appeal, contact with us in discord.
